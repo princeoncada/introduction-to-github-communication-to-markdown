@@ -7,6 +7,12 @@
 
 ![Image Test](https://image.shutterstock.com/image-vector/art-deco-trellis-lines-seamless-600w-1713206362.jpg)
 
+- [x] test task 1
+- [x] test task 2
+- [ ] test task 3
+
+
+
 ```
 public class SortingAlgorithm_OncadaTest {
     public static int num = 1;
